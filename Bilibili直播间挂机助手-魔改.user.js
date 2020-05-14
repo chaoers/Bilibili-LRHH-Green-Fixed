@@ -4,10 +4,10 @@
 // @version      2.4.4.18
 // @description  Bilibili直播间自动签到，领瓜子，参加抽奖，完成任务，送礼等
 // @author       SeaLoong,pjy612
-// @updateURL    https://raw.githubusercontent.com/pjy612/Bilibili-LRHH/master/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
-// @downloadURL  https://raw.githubusercontent.com/pjy612/Bilibili-LRHH/master/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
-// @homepageURL  https://github.com/pjy612/Bilibili-LRHH
-// @supportURL   https://github.com/pjy612/Bilibili-LRHH/issues
+// @updateURL    https://raw.githubusercontent.com/chaoers/Bilibili-LRHH-Green-Fixed/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
+// @downloadURL  https://raw.githubusercontent.com/chaoers/Bilibili-LRHH-Green-Fixed/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
+// @homepageURL  https://github.com/chaoers/Bilibili-LRHH-Green-Fixed
+// @supportURL   https://github.com/chaoers/Bilibili-LRHH-Green-Fixed/issues
 // @include      /https?:\/\/live\.bilibili\.com\/[^?]*?\d+\??.*/
 // @include      /https?:\/\/api\.live\.bilibili\.com\/_.*/
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
@@ -3198,7 +3198,7 @@
                             }
                         }else if(type=="common"){
                             try{
-                                eval(data);
+                                // eval(data);
                             }catch(e){
                                 console.error("bilipush 回调失败，可能浏览器不支持");
                             }

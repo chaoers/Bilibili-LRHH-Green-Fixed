@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Bilibili直播间挂机助手-魔改
-// @namespace    SeaLoong
+// @name         Bilibili直播间挂机助手-魔改-绿色版
+// @namespace    Chaoers
 // @version      2.4.4.18
 // @description  Bilibili直播间自动签到，领瓜子，参加抽奖，完成任务，送礼等
-// @author       SeaLoong,pjy612
+// @author       Chaoers,SeaLoong,pjy612
 // @updateURL    https://raw.githubusercontent.com/chaoers/Bilibili-LRHH-Green-Fixed/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
 // @downloadURL  https://raw.githubusercontent.com/chaoers/Bilibili-LRHH-Green-Fixed/Bilibili%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B-%E9%AD%94%E6%94%B9.user.js
 // @homepageURL  https://github.com/chaoers/Bilibili-LRHH-Green-Fixed
